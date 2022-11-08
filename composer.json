@@ -3,8 +3,8 @@
     "description": "Test Map Export",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
-      "php": ">=7.4"
+      "php": ">=7.3"
     }
 }
