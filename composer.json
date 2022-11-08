@@ -1,0 +1,10 @@
+{
+    "name": "acquiredigital/test-map",
+    "description": "Test Map Export",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=7.4"
+    }
+}
