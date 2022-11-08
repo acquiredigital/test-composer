@@ -1,6 +1,6 @@
 <?php
 
-namespace TestMap;
+namespace Acquiredigital\TestMap;
 
 class TestMap
 {
